@@ -29,6 +29,9 @@ The `main.py` file contains an example class `EENDasP_example` demonstrating the
 - **Update (`update`)**: Updates the `xvec_arr` for the current speaker pair based on the processing results.
 - **Simple and Full Update (`simple_update`, `fully_update`)**: These methods implement the two update rules described in the paper, depending on the estimated number of speakers.
 
+## Example 
+![image](https://github.com/DongKeon/EENDasP/assets/26243855/4d92e88a-9b22-48ec-afcd-15ee0ce8e5ac)
+
 ## Contributing
 
 If you have any suggestions, bug reports, or annoyances please feel free to report them to the issue tracker of this project.
